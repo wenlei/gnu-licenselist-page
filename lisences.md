@@ -1,7 +1,7 @@
 #目录
 #软件协议 (Software Licenses)
 
-    ##GPL族类 的 自由软件协议 (GPL-Compatible Free Software Licenses) 
+ ##GPL族类 的 自由软件协议 (GPL-Compatible Free Software Licenses) 
     ##非GPL族类 的 自由软件协议 (GPL-incompatible Free Software Licenses)
     ##非自由软件协议 (Nonfree Software Licenses)
 
