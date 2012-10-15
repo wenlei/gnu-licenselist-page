@@ -14,4 +14,5 @@
 
 ##结构说明
 来源 http://www.gnu.org/licenses/license-list.html
+
 此外，对于Appendix是针对某些问题（比如 名词，比如某写法条的讨论）的邮件内容，以供参详者track. 
