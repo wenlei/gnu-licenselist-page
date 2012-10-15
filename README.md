@@ -10,7 +10,7 @@
 
 
 ##鸣谢
-Bruce Gorden ![](http://www.asb.unsw.edu.au/schools/Pages/BruceGordon.aspx)在我翻译的过程中给予的巨大帮助。
+[Bruce Gorden](http://www.asb.unsw.edu.au/schools/Pages/BruceGordon.aspx)在我翻译的过程中给予的巨大帮助。
 
 
 ##结构说明
