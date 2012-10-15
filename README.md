@@ -10,7 +10,7 @@
 
 
 ##鸣谢
-感谢 我的老师 Bruce Gorden 在我翻译的过程中给予的巨大帮助。
+感谢 我的法律课老师 Bruce Gorden 在我翻译的过程中给予的巨大帮助。
 
 ##结构说明
 来源 http://www.gnu.org/licenses/license-list.html
