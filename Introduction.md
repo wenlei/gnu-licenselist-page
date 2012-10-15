@@ -10,7 +10,7 @@
 
 如果你确信找到了违反这些协议的行为，请移步至licenses violation page（http://www.gnu.org/licenses/gpl-violation.html）.
 
-如果你开始了一个新的项目，但不清楚用什么协议，请移步至 How to choose a license for your own work(http://www.gnu.org/licenses/license-recommendations.html),这里具体介绍了我们对协议选择的指导。
+如果你开始了一个新的项目，但不清楚用什么协议，请移步至 How to choose a license for your own work(http://www.gnu.org/licenses/license-recommendations.html) , 这里具体介绍了我们对协议选择的指导。
 
 如果你对自由软件协议有问题，请发电邮至 licensing@fsf.org . 因为我们的资源有限，我们无法回答那些意在协助开发私有软件和发行的问题，另外，如果你所述的问题没有在此被涉及(或是在我们的FAQ中被收录)，那么你讲很可能会得到一个快速（初略）的答案。我们欢迎有能力的志愿者加入我们回答协议性问题。
 
