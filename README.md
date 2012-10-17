@@ -1,6 +1,6 @@
 #题注
 ##起因
-鉴于对free software license的中文材料较少 是 我翻译这个文稿的主要原因。
+鉴于对free software license的中文材料较少。
 
 ##经过
 挖了才知道里面的内容太多，颇费时间。
